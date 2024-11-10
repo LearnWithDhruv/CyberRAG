@@ -43,10 +43,6 @@ cybersec_rag_project/
 ├── Dockerfile                       # Docker configuration
 ├── requirements.txt                 # Dependencies for pip
 ├── .env                             # Environment variables (API keys, database URIs)
-├── data/                            # Sample data directory
-│   ├── raw_text/                    # Raw text files for initial testing
-│   ├── images/                      # Sample images for testing
-│   └── sample_data.json             # Sample structured JSON data
 ├── src/                             # Main source code directory
 │   ├── main.py                      # Main entry point for running the project
 │   ├── config.py                    # Configuration and environment settings
@@ -55,7 +51,6 @@ cybersec_rag_project/
 │   ├── inference/                   # Query and inference pipeline
 │   ├── utils/                       # Utility functions
 │   └── tests/                       # Unit tests
-├── diagrams/                        # Diagrams explaining the data flow and graph structure
 └── benchmarks/                      # Directory to store benchmarking results
 ```
 
