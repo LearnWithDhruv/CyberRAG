@@ -190,4 +190,3 @@ Special thanks to:
 
 ---
 
-For further information or questions, please contact [your_email@example.com].
